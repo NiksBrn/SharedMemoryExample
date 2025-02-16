@@ -8,7 +8,7 @@ scripts/build.sh
 ```
 scripts/run.sh
 ```
-Удаление контейнера:
+Удаление Docker-контейнера:
 ```
 scripts/clean.sh
 ```
