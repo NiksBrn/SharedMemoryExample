@@ -2,4 +2,4 @@
 
 echo "Удаление Docker-образа..."
 sudo docker rmi shared-memory-example
-echo "Образ my-gcc-app удален."
+echo "Образ shared-memory-example удален."
